@@ -1,4 +1,4 @@
-# one-liner-linux-cli-gems
+# One-liner Linux Gems
 A list of one-liner linux command line gems  
 
 ## TCP Dump
