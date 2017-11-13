@@ -14,7 +14,7 @@ sudo tcpdump -A -s 10240 'tcp port 80 and (((ip[2:2] - ((ip[0]&0xf)<<2)) - ((tcp
 Find top 10 largest directories sorted in descending order by bytes 
 
 ```
-du -a / | sort -n -r | head -n 10
+du -a /var | sort -n -r | head -n 10
 ```
 
 ```
