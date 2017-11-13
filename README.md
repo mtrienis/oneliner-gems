@@ -15,7 +15,9 @@ Find top 10 largest directories sorted in descending order by bytes
 
 ```
 du -a / | sort -n -r | head -n 10
+```
 
+```
 1008372 /var
 313236  /var/www
 253964  /var/log
