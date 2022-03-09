@@ -1,5 +1,5 @@
-# One-liner Linux Gems
-A list of one-liner linux command line gems  
+# One-liner command line gems
+A list of one-liner command line gems  
 
 ## TCP Dump
 
